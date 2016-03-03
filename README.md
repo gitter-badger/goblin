@@ -1,5 +1,7 @@
 # Goblin OGM for TinkerPop3 Gremlin Server
 
+[![Join the chat at https://gitter.im/ZEROFAIL/goblin](https://badges.gitter.im/ZEROFAIL/goblin.svg)](https://gitter.im/ZEROFAIL/goblin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/ZEROFAIL/goblin.svg?branch=master)](https://travis-ci.org/ZEROFAIL/goblin)
 [![Coverage Status](https://coveralls.io/repos/github/ZEROFAIL/goblin/badge.svg?branch=master)](https://coveralls.io/github/ZEROFAIL/goblin?branch=master)
 [![Gitter chat](https://badges.gitter.im/ZEROFAIL/goblin.svg)](https://gitter.im/ZEROFAIL/goblin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
